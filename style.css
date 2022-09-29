@@ -14,7 +14,7 @@ body{
     padding: 5px;
     width: 300px;
     text-align: center;
-    background: #ddd;
+    background: rgb(205, 104, 218);
     border-radius: 10px;
     position: relative;
     box-shadow: 2px 2px 0px 3px #dddddd63;
@@ -32,14 +32,18 @@ body{
     border: none;
     border-radius: 4px;
     background-color: #212121;
-    color: #efefef;
+    color: #48d4ba;
     text-transform: uppercase;
     cursor: pointer;
     outline: none;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
-    transition: all ease 0.5s;
+    transition: all ease 0.3s;
     position: relative;
     margin: 14px;
+}
+
+.cart-btn:hover {
+    background-color: #444343;
 }
 
 .count{
@@ -81,7 +85,7 @@ body{
     position: absolute;
     height: 30px;
     width: 30px;
-    background-color: #85cb33;
+    background-color: #33cb91;
     border-radius: 500px;
     font-size: 14px;
     display: inline-flex;
@@ -113,4 +117,5 @@ body{
 
 .cart i{
     padding-top: 25px;
+    color: #e7f75a;
 }
