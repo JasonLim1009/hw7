@@ -1,3 +1,3 @@
 # hw7
 
-![This is an image]![image](https://user-images.githubusercontent.com/107684179/185781073-c5a71034-e998-4d5a-86ed-84f0af5da71f.png)
+![Screenshot_1](https://user-images.githubusercontent.com/107684179/192969400-e8277236-7e24-44d6-92f4-935d092004d6.png)
